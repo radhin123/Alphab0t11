@@ -193,11 +193,11 @@ autoketik = false
 autoregister = setting.user_register
 
 img = setting.img
-baper = 'SUB YT ZEEONE OFC'
-apiku = 'https://youtu.be/2rWbjrDIAyA'
-gc_wa_lu = 'https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV' //klo gk punya gc wa gk usah di ganti 👍
+baper = 'by Radhin Mods'
+apiku = 'https://youtu.be/LeF0xcja7oM'
+gc_wa_lu = 'https://chat.whatsapp.com/DDyNQG3EninEdepRU5ef1I' //klo gk punya gc wa gk usah di ganti 👍
 targetpc = setting.ownerNumberr
-owner = targetpc
+owner = targetpc.
 fake = setting.fake
 numbernye = '0'
 waktu = 'Nothing'
